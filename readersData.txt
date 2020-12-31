@@ -1,0 +1,4 @@
+{"ID":1,"Name":"Dina","Gender":"female","Birthday":"24-11-1996","Employment":"developer","Weight":80,"Height":170}
+{"ID":2,"Name":"Ali","Gender":"male","Birthday":"7-1-1960","Employment":"teacher","Weight":70,"Height":160}
+{"ID":4,"Name":"Nada","Gender":"female","Birthday":"9-10-1997","Employment":"HR","Weight":70,"Height":170}
+{"ID":3,"Name":"Sara","Gender":"female","Birthday":"2-12-1990","Employment":"engineer","Weight":60,"Height":160}

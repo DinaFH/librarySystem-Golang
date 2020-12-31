@@ -1,0 +1,2 @@
+{"ID":1,"Title":"hamlet","PublicationDate":"1609","Author":"Shakespeare","Genre":"play","Publisher":"Shakespeare","Language":"English"}
+{"ID":2,"Title":"tale","PublicationDate":"1859","Author":"CharlesD","Genre":"novel","Publisher":"CharlesD","Language":"English"}
